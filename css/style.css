@@ -1,3 +1,5 @@
+
+  
 * {
 padding: 0px;
 margin: 0px;
@@ -552,11 +554,9 @@ background-position: -131px -122px;
 }
 
 #minify {
-background-color: #fff;
+background-color: black;
 padding: 4px 4px 4px 25px;
 cursor: pointer;
-background-image: url('../images/sprite.png');
-background-repeat: no-repeat;
 background-position: -167px -118px;
 position: absolute;
 top: 65px;
@@ -568,10 +568,20 @@ display: none;
 position: absolute;
 width: 20px;
 height: 16px;
-background-image: url('../images/sprite.png');
 background-repeat: no-repeat;
 background-position: -45px -147px;
 cursor: pointer;
 display: none;
 }
-
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
